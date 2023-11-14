@@ -1,0 +1,16 @@
+{
+  "name": "structure-lint",
+  "version": "1.0.0",
+  "description": "Linter for folder and file structure",
+  "main": "index.js",
+  "repository": "git@github.com:andrmoel/structure-lint.git",
+  "author": "Andreas Möller <andrmoel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "esbuild"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.5",
+    "typescript": "^5.2.2"
+  }
+}
